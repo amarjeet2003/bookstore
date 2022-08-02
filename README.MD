@@ -16,6 +16,6 @@ pip install pyinstaller
 # command to build .exe file
 pyinstaller --onefile --windowed frontend.py
 
-# command to execute locally
+# command to run locally
 python frontend.py
 ```
